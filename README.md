@@ -1,5 +1,6 @@
 # Quantum-cGAN
-Hybrid Quantum Wasserstein Conditional Generative Adversarial Network with Gradient Penalty 
+Hybrid Quantum Wasserstein Conditional Generative Adversarial Network with Gradient Penalty
+implemented for the task of protein targeted de novo drug development.
 
 Flow of data:
 
